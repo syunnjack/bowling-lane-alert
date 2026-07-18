@@ -8,7 +8,7 @@ Recommended repository name: `bowling-lane-alert`
 
 ## Domain candidates
 
-First candidate: `lanealert.jp`
+Confirmed domain: `lanealert.jp`
 
 Other candidates:
 
