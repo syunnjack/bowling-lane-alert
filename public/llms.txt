@@ -1,0 +1,7 @@
+# Bowling Lane Alert
+
+大会、空きレーン、スコアランキング更新を通知し、施設送客、用品、イベント掲載へつなげる。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 施設送客, 用品 affiliate, イベント掲載, 会員課金, スポンサー
+Primary categories: 大会, 空きレーン, ランキング, スコア, 用品
