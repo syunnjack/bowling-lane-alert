@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://lanealert.jp/sitemap.xml
+Disallow: /
